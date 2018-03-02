@@ -1,3 +1,4 @@
+// Copyright (c) 2018, Decred Labs
 // Copyright (c) 2017, Jonathan Chappelow
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
