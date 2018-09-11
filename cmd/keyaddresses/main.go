@@ -30,7 +30,7 @@ func runMain() error {
 
 	chainParams := &chaincfg.MainNetParams
 	if *testnet {
-		chainParams = &chaincfg.TestNet2Params
+		chainParams = &chaincfg.TestNet3Params
 		if *simnet {
 			return fmt.Errorf("Cannot specify both simnet and testnet")
 		}

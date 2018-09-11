@@ -6,3 +6,4 @@ debug
 vendor/
 *.orig
 *.pprof
+keyaddresses
